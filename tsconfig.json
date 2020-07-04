@@ -9,7 +9,11 @@
     "sourceMap": true,
     "target": "es5",
     "jsx": "react",
-    "noEmit": true
+    "noEmit": true,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "app/javascript",
+    "strict": true,
+    "esModuleInterop": true
   },
   "exclude": [
     "**/*.spec.ts",
