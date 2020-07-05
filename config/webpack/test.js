@@ -4,5 +4,4 @@ const environment = require('./environment')
 
 module.exports = {
   ...environment.toWebpackConfig(),
-  mode: "test",
 }
