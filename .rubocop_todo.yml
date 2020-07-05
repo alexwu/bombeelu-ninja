@@ -70,7 +70,7 @@ Style/Documentation:
 # Configuration parameters: EnforcedStyle.
 # SupportedStyles: always, always_true, never
 Style/FrozenStringLiteralComment:
-  Enabled: false
+  Enabled: always_true
 
 # Offense count: 1
 # Cop supports --auto-correct.
@@ -106,4 +106,4 @@ Style/StringLiterals:
 # Configuration parameters: MinSize.
 # SupportedStyles: percent, brackets
 Style/SymbolArray:
-  EnforcedStyle: brackets
+  EnforcedStyle: percent
