@@ -291,6 +291,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap (>= 1.4.2)
+  bundler (>= 2.1.4)
   byebug
   capybara (>= 2.15)
   devise
