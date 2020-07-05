@@ -31,7 +31,8 @@
     "plugin:jest-dom/recommended",
     "plugin:import/errors",
     "plugin:import/warnings",
-    "plugin:import/typescript"
+    "plugin:import/typescript",
+    "prettier/@typescript-eslint"
   ],
   "rules": {
     "@typescript-eslint/explicit-function-return-type": "off",
