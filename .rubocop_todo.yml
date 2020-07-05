@@ -70,7 +70,7 @@ Style/Documentation:
 # Configuration parameters: EnforcedStyle.
 # SupportedStyles: always, always_true, never
 Style/FrozenStringLiteralComment:
-  Enabled: always_true
+  Enabled: true
 
 # Offense count: 1
 # Cop supports --auto-correct.
