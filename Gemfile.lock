@@ -95,7 +95,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     ast (2.4.1)
     backport (1.1.2)
@@ -168,7 +168,7 @@ GEM
     parser (2.7.1.4)
       ast (~> 2.4.1)
     pg (1.2.3)
-    public_suffix (4.0.5)
+    public_suffix (4.0.6)
     puma (5.0.0.beta1)
       nio4r (~> 2.0)
     rack (2.2.3)
@@ -249,6 +249,12 @@ GEM
       sorbet-static (= 0.5.5795)
     sorbet-runtime (0.5.5795)
     sorbet-static (0.5.5795-universal-darwin-14)
+    sorbet-static (0.5.5795-universal-darwin-15)
+    sorbet-static (0.5.5795-universal-darwin-16)
+    sorbet-static (0.5.5795-universal-darwin-17)
+    sorbet-static (0.5.5795-universal-darwin-18)
+    sorbet-static (0.5.5795-universal-darwin-19)
+    sorbet-static (0.5.5795-x86_64-linux)
     spring (2.1.0)
     spring-watcher-listen (2.0.1)
       listen (>= 2.7, < 4.0)
